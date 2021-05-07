@@ -1,5 +1,6 @@
                     If there is no struggle, there is no progress.
-### Hi there 👋, my name is kavin Raja
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### My name is kavin Raja
 <!---![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)--->
 
 
