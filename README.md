@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Django and open cv 
 - 👯 I’m looking to collaborate on any web development or ML projects 
-- 🔎 I’m looking for help with for a partner with whom I can learn and do stuff together  
+- 🔎 I’m looking for a partner with whom I can learn and do stuff together  
 - 📫 How to reach me: mail: kavinkr10@gmail.com 
 -  Sleep🛌| Lift🏋️‍♀️ | Code💻
 
