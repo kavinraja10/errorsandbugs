@@ -4,10 +4,10 @@
 <!---![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)--->
 
 
-- 🌱 I’m currently learning Django,nodeJs and open cv 
-- 👯 I’m ready to collaborate on any web development or ML projects 
+- 🌱 I’m currently learning open cv 
+- 👯 I’m ready to collaborate on any Data Science or ML projects 
 - 🔎 I’m looking for a partner with whom I can learn and do stuff together  
-- 📫 How to reach me: mail: kavinkr10@gmail.com 
+- 📫 How to reach me mail: kavinkr10@gmail.com 
 -  Sleep🛌| Lift🏋️‍♀️ | Code💻
 
 
