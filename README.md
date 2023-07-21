@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning open cv 
 - 👯 I’m ready to collaborate on any Data Science or ML projects 
 - 🔎 I’m looking for a partner with whom I can learn and do stuff together  
-- 📫 How to reach me mail: kavinkr10@gmail.com 
+- 📫 Reach me at: kavinkr10@gmail.com 
 -  Sleep🛌| Lift🏋️‍♀️ | Code💻
 
 
